@@ -15,7 +15,7 @@ I am a second-year integrated MSc. Physics Student at National Institute of Tech
 
 
 <h3>💡 Interests</h3>
-• Quantum AI • AGI Research • Quantum Cryptography • Computer Vision
+• Quantum AI • AGI Research • Quantum Cryptography • Computer Vision • Competitive Programming 
 
 
 
