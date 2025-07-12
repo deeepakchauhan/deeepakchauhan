@@ -1,25 +1,27 @@
-<h3>👩‍💻 About Me</h3>
-I am a second-year integrated MSc. Physics Student at National Institute of Technology, Surat, Exploring the intersection of AI/ML, Quantum Computing , and Cryptography. Also,trying to understand the physical world, and build solutions to solve real world problems using Technology.
+<h2 align =  "left">👩‍💻 About Me :</h2>
+I am a second-year integrated MSc. Physics Student at National Institute of Technology, Surat, Exploring the intersection of AI/ML, Quantum Computing , and Cryptography. Also, trying to understand the physical world, and build solutions to solve real world problems using Technology.
 
 
-<h3>🎯 Current Focus</h3>
- • 🌱 Learning Qiskit, Python, and Quantum Programming
+<h2 align = "left">🎯 Current Focus :</h2>
+ • 🌱 Learning Qiskit, Python, and Quantum Programming.
  <br>
- • 🧠 Deep-diving into Data structures and Algorithms and Cryptanalysis
+ • 🧠 Deep-diving into Data structures and Algorithms and Cryptanalysis.
  <br>
- • 📚 Participating in IBM Qiskit Global Summer School 2025
+ • 📚 Participating in IBM Qiskit Global Summer School 2025.
+ <br>
+ • 🐍 Exploring python Libraries, and Frameworks.
 
 
-<h3>🛠️ Tech Stack</h3>
+<h2 align = "left">🛠️ Tech Stack :</h2>
  • Python • Qiskit • Git/GitHub • HTML/CSS
 
 
-<h3>💡 Interests</h3>
+<h2 align = "left">💡 Interests :</h2>
 • Quantum AI • AGI Research • Quantum Cryptography • Computer Vision • Competitive Programming 
 
 
 
-<h3>📊 GitHub Stats</h3>
+<h2 align = "left">📊 GitHub Stats :</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeepakchauhan&layout=compact&theme=radical" />
   <br>
@@ -29,7 +31,7 @@ I am a second-year integrated MSc. Physics Student at National Institute of Tech
 
 
 
-<h3>📫 Connect With Me</h3>
+<h2 align = "left">📫 Connect With Me :</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-chauhan-b7b376326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
